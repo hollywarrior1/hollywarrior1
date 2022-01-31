@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-!(pepa)[https://i.imgur.com/TjrkPNI.gif]
+![pepa](https://i.imgur.com/TjrkPNI.gif)
